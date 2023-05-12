@@ -1,6 +1,6 @@
-Név:
+Név: Boga Áron
 Szak:
-Neptun azonosító:
+Neptun azonosító: ON...
 
 Kérdés 1:
 Mi a Kanban módszertan alapvető célja?
@@ -10,7 +10,7 @@ B. A munkafolyamatok átláthatóságának és hatékonyságának javítása
 C. A projektek erőforrásainak maximalizálása
 D. Csak a projektek kezdeti szakaszában való alkalmazás
 
-Válasz:
+Válasz: B
 
 Kérdés 2:
 Melyik állítás igaz a Kanban módszertannal kapcsolatban?
